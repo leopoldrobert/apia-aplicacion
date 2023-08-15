@@ -28,3 +28,14 @@ CREATE TABLE `persona` (
 ) ENGINE=MyISAM;  
 
 commit;
+
+JSON
+
+{
+    "tarjeta_credito_id": 0,
+    "numeroTarjeta": 0,
+    "importe": 225.0,
+    "fechaVencimiento": null,
+    "fechaActual": null,
+    "marcaTarjeta": "NARA"
+}
